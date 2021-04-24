@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <pbt.h>
-#include <ctype.h>
+#include <bits/stdc++.h>
 
 void aes(char*, char*, char*, int);
 void aes_detail(int[4][4], int[4][4], int);
